@@ -11,7 +11,7 @@ This project is a Flipkart-style Product Recommendation Engine built using Pytho
 - **Product features (description similarity)**
 - **User preferences (similar user behavior)**
 
-The system uses **TF-IDF** for analyzing product descriptions and a **user-product rating matrix** for collaborative filtering. The UI is designed using **Gradio** to simulate a simple and modern e-commerce experience.
+The system uses **TF-IDF** for analyzing product descriptions and a **user-product rating matrix** for collabortive filtering. The UI is designed using **Gradio** to simulate a simple and modern e-commerce experience.
 
 ## 🔍 Features
 
